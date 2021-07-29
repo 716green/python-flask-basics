@@ -1,0 +1,13 @@
+body {
+  background-color: darkslategray;
+  text-align: left;
+  color: whitesmoke;
+}
+
+.heading {
+  text-align: center;
+}
+
+.btn {
+  border-radius: 0.5rem;
+}
